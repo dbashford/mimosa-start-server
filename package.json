@@ -1,0 +1,28 @@
+{
+  "name": "mimosa-start-server",
+  "version": "0.1.0",
+  "homepage": "http://www.mimosa.io",
+  "author": "David Bashford",
+  "description": "A simple server starting module for Mimosa",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-start-server"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "server"
+  ],
+  "dependencies": {},
+  "main": "./src/index",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
